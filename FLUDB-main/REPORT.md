@@ -103,7 +103,14 @@ A comparação entre os anos destacou 2012 como o melhor período em aproveitame
 
 Os resultados mostram como a análise de dados pode transformar registros esportivos em informações compreensíveis e apoiar a interpretação do desempenho de uma equipe. As conclusões são descritivas e se limitam ao conjunto de partidas analisado.
 
-## 8. Limitações
+8. Limitações
+A base contém resultados de partidas e placares, mas não apresenta estatísticas individuais completas ou evidências táticas suficientes para explicar as causas dos resultados. Alterações históricas nas equipes, nos treinadores, nos elencos e nas condições de competição também não foram incorporadas ao estudo.
+
+Além disso, a análise considera o período de 2003 a 2024, de modo que suas conclusões não devem ser generalizadas para temporadas anteriores ou posteriores. Os indicadores utilizados — vitórias, empates, derrotas, gols marcados e sofridos — permitem identificar padrões de desempenho, mas não estabelecem relações causais.
+
+Outro aspecto importante é que o desempenho do Fluminense pode ser influenciado por fatores não contemplados na base, como lesões, calendário de jogos, decisões de arbitragem e mudanças na estratégia das equipes. Portanto, os resultados devem ser interpretados como uma análise descritiva do desempenho histórico, e não como uma explicação definitiva dos fatores que determinaram cada resultado.
+
+Por fim, a qualidade das conclusões depende da consistência e da completude dos dados disponíveis. A inclusão futura de informações sobre jogadores, escalações, posse de bola, finalizações e outros indicadores poderia ampliar a profundidade da análise e permitir novas investigações.
 
 A base contém resultados de partidas e placares, mas não apresenta estatísticas individuais completas ou evidências táticas suficientes para explicar as causas dos resultados.
 
